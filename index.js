@@ -7,8 +7,6 @@ const app = express();
 app.use(express.json()); // Make sure it comes back as json
 
 //TODO - Replace you Connection String here
-
-//TODO - Replace you Connection String here
 const DB_NAME = "db_comp3133_employee"
 const DB_USER_NAME = ''
 const DB_PASSWORD = ''
